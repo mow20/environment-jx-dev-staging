@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: hera-project
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.122
 - name: mqttserver
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
