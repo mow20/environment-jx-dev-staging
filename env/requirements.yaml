@@ -16,6 +16,9 @@ dependencies:
 - name: mqttserver
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
+- name: nike
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.35
 - name: priluxswiftlibrary
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.27
