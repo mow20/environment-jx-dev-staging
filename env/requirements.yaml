@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.122
 - name: mqttserver
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.25
+  version: 0.0.26
 - name: nike
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.35
