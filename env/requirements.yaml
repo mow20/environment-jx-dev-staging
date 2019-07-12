@@ -1,4 +1,7 @@
 dependencies:
+- name: dds-qa
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.1
 - name: ddsqa
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.5
